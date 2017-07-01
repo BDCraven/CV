@@ -1,8 +1,10 @@
 ## Benjamin Craven
 
 I am a solicitor who trained and qualified at a global law firm before moving to the in-house legal team of a top 10 global accountancy firm with a wide variety of experience covering all aspects of the professional services sector. Before qualifying as a solicitor I wrote online case summaries for Thomson Reuters.
-I was inspired to change career by a book, called Quit Law and Learn to Code by William Ha. It made me realise that many of my legal skills, such as attention to detail, focus, the ability to understand complex issues quickly, succinct drafting and problem solving were directly transferrable and beneficial to coding. With no experience in coding I started with a few courses on Codeacademy before attending a weekend course learning the basics of how to build a website in HTML and CSS. Each step fed my curiosity and excitement and I eventually took the plunge to quit my job and enrol with Makers Academy, a full-time 16 week software development bootcamp.
-I am keen to find employment as soon as possible after the graduation in September. I am confident that my overall experience would be particularly valuable to roles in professional firms or companies servicing the professional sector as I understand their business requirements. Ultimately, the ideal position is one where I can quickly learn and develop my skills as a developer while adding value to the organisation.
+
+I was inspired to change career by a book, called Quit Law and Learn to Code by William Ha. It made me realise that many of my legal skills, such as attention to detail, focus, the ability to understand complex issues quickly, succinct drafting and problem solving were directly transferrable and beneficial to coding. With no experience in coding I started with a few courses on Codeacademy before attending a weekend course learning the basics of how to build a website in HTML and CSS. Each step fed my curiosity and excitement and I eventually took the plunge to quit my job and enrol with Makers Academy, a full-time 16 week software development bootcamp.
+
+I am keen to find employment as soon as possible after the graduation in September. I am confident that my overall experience would be particularly valuable to roles in professional firms or companies servicing the professional sector as I understand their business requirements. Ultimately, the ideal position is one where I can quickly learn and develop my skills as a developer while adding value to the organisation.
 
 ## Skills
 
@@ -24,7 +26,7 @@ In private practice and in house I was regarded for my careful and thorough appr
 
 In the early stages of bootcamp I have already seen the benefit of being able to effectively carry out online research for coding problems to find an answer quickly.
 
-#### Communication
+#### Communication
 
 As a cases editor for online legal website, Lawtel I learnt to draft case summaries succinctly and clearly to tight deadlines. While in private practice I drafted articles for external publications and client newsletters. I was also a member of the newly formed IT/IP team and I drafted an article on copyright protection for software developers ([see here](http://www.mondaq.co.uk/uk/x/181208/Copyright/SAS+No+Copyright+SOS+For+Software+Developers "Mondaq Article")).
 
@@ -76,5 +78,5 @@ I think there is great value in being able to explain complex coding principles 
 ## Interests
 
 - Reading	-	I particularly enjoy historical fiction and sci-fi.
-- Sport	-	health and fitness is important to me and I like to exercise regularly.
+- Health and fitness - is important to me and I like to exercise regularly.
 - Martial Arts	- have practised various styles from judo to Muay Thai.
