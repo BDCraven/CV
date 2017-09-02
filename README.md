@@ -19,7 +19,7 @@ For a complete list, please see my [Github](https://github.com/bdcraven).
 | Project	   | Description	| Technologies |
 | ---------- | ------------ | ------------ |
 | [Instagram](https://github.com/BDCraven/instagram-challenge)  | A solo weekend challenge to build an Instagram clone using Ruby on Rails. I had only 5 days of very limited experience with Rails when I started this project but I was able to implement functionality such as users, likes and comments. See on Heroku, [here](https://bensinstagram.herokuapp.com/)  | Ruby/Rails, Rspec, Postgres, Devise, Paperclip |
-| [PacMean](https://github.com/BDCraven/pacmean)   |  A short four-day project working in a team of 5 to build a static 2d game. I worked on movement, collision and styling. See game on Gitub, [here](https://paulmillen.github.io/pacmean/) | Javascript, HTML5 Canvas, Jasmine |
+| [PacMean](https://github.com/BDCraven/pacmean)   |  A short four-day project working in a team of 5 to build a static 2d game. I worked on movement, collision and styling. See game on Github (warning: plays sound on opening), [here](https://paulmillen.github.io/pacmean/) | Javascript, HTML5 Canvas, Jasmine |
 | [Bowling Challenge](https://github.com/BDCraven/bowling-challenge) | A solo weekend challenge to make a bowling score app. We had two weekends to complete the back-end and front-end. Despite illness I completed the back-end logic and put together a user interface. | Javascript, Jasmine, HTML, CSS |
 | [Makersbnb](https://github.com/BDCraven/makersbnb) | A week long project to create an Airbnb clone in a team of 4. I worked on styling, user sign up and the database. See on Heroku, [here](http://piggybnb.herokuapp.com/listings) | Ruby, Rspec, Sinatra, Capybara, DataMapper, Postgres |
 
