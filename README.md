@@ -33,7 +33,7 @@ I have a keen eye for detail which has been developed from working as a lawyer. 
 
 #### Fast learner
 
-Working as a lawyer I had to quickly understand complex legal and business specific issues, often in an extremely high pressure environment. In week 9 of the course, working in a group of 5, I learnt the basics of HTML5 Canvas and used it to build a PacMan clone in less than three days.
+Working as a lawyer I had to quickly understand complex legal and business specific issues, often in an extremely high pressure environment. In week 9 of the course, working in a group of 5, I learnt the basics of HTML5 Canvas and we used it to build a PacMan clone in less than three days.
 
 #### Research skills/analytical approach
 
