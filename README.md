@@ -16,8 +16,9 @@ For a complete list, please see my [Github](https://github.com/bdcraven).
 
 | Project	   | Description	| Technologies |
 | ---------- | ------------ | ------------ |
+| [Commandos](https://github.com/BDCraven/commandos) | A unique command line tool and learning aid that displays relevant tips as the terminal is used. Developed by a group of 5 Makers' students over two weeks as the final project. I am proud of this project as it was a Makers Academy first, the concept was my idea and I solved two of the key blockers to its success, namely: how to run the app in the command line without interfering with the use of the terminal; and how to monitor the commands typed into the terminal. Can be installed [here](https://github.com/BDCraven/commandos/blob/master/doc/auto_install.md) | Ruby, Rspec, Bash |
 | [Instagram](https://github.com/BDCraven/instagram-challenge)  | A solo weekend challenge to build an Instagram clone using Ruby on Rails. I had only 5 days of very limited experience with Rails when I started this project but I was able to implement functionality such as users, likes and comments. I found the speed and simplicity with which Rails can create web applications very satisfying. See on Heroku, [here](https://bensinstagram.herokuapp.com/)  | Ruby/Rails, Rspec, Postgres, Devise, Paperclip |
-| [PacMean](https://github.com/BDCraven/pacmean)   |  A short four-day project working in a team of 5 to build a static 2d game. I worked on movement, collision and styling. It was really fun learning how to get something to move around the screen and interact with objects. See game on Github (warning: plays sound on opening), [here](https://paulmillen.github.io/pacmean/) | Javascript, HTML5 Canvas, Jasmine |
+| [PacMean](https://github.com/BDCraven/pacmean)   |  A short four-day project working in a team of 5 to build a static 2d game. I worked in pairs on movement, collision and styling. It was really fun learning how to get something to move around the screen and interact with objects. See game on Github (warning: plays sound on opening), [here](https://paulmillen.github.io/pacmean/) | Javascript, HTML5 Canvas, Jasmine |
 | [Bowling Challenge](https://github.com/BDCraven/bowling-challenge) | A solo weekend challenge to make a bowling score app in Javascript. We had two weekends to complete the back-end and front-end. Despite illness I completed the back-end logic and put together a user interface. I enjoyed working with Javascript and getting my head round the complex bowling score algorithm. | Javascript, Jasmine, HTML, CSS |
 | [Makersbnb](https://github.com/BDCraven/makersbnb) | A week long project to create an Airbnb clone in a team of 4. I worked on styling, user sign up and the database. I particularly enjoyed working on the database interactions and relationships. See on Heroku, [here](http://piggybnb.herokuapp.com/listings) | Ruby, Rspec, Sinatra, Capybara, DataMapper, Postgres |
 
@@ -33,7 +34,7 @@ I have a keen eye for detail which has been developed from working as a lawyer. 
 
 #### Fast learner
 
-Working as a lawyer I had to quickly understand complex legal and business specific issues, often in an extremely high pressure environment. In week 9 of the course, working in a group of 5, I learnt the basics of HTML5 Canvas and used it to build a PacMan clone in less than three days.
+Working as a lawyer I had to quickly understand complex legal and business specific issues, often in an extremely high pressure environment. In week 9 of the course, working in a group of 5, I learnt the basics of HTML5 Canvas and we used it to build a PacMan clone in less than three days.
 
 #### Research skills/analytical approach
 
